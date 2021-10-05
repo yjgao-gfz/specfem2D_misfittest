@@ -1,0 +1,13 @@
+rm -rf EVENT1/REF_SEM*
+rm -rf EVENT2/REF_SEM*
+rm -rf EVENT3/REF_SEM*
+rm -rf EVENT4/REF_SEM*
+rm -rf EVENT5/REF_SEM*
+rm -rf EVENT6/REF_SEM*
+rm -rf EVENT7/REF_SEM*
+rm -rf EVENT8/REF_SEM*
+rm -rf EVENT9/REF_SEM*
+rm -rf EVENT10/REF_SEM*
+rm -rf EVENT11/REF_SEM*
+rm -rf EVENT12/REF_SEM*
+rm -rf EVENT13/REF_SEM*
